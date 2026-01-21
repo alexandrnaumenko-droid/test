@@ -89,7 +89,7 @@ body {
 /* Hero section  */
 .hero-section {
   padding: 315px;
-  background-image: url('https://alexandrnaumenko-droid.github.io/test/BSSOBaner.jpg');
+  background-image: url(https://alexandrnaumenko-droid.github.io/test/BSSOBaner.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: contain;
